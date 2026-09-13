@@ -781,7 +781,6 @@
     "barbell": "78253357723184",
     "barcode#bold": "121587696618641",
     "barcode#fill": "105847104483423",
-    "barcode#light": "109967381309929",
     "barcode#thin": "87989133167896",
     "barcode": "87800567061207",
     "barn#bold": "73792155588945",
@@ -1821,7 +1820,6 @@
     "cigarette#bold": "132824011283936",
     "cigarette#fill": "140155915628755",
     "cigarette#light": "80971794616300",
-    "cigarette#thin": "98763617483322",
     "cigarette-slash#bold": "81546214054140",
     "cigarette-slash#fill": "115687765639631",
     "cigarette-slash#light": "108899130315629",
@@ -5586,7 +5584,6 @@
     "qr-code#fill": "89679844795820",
     "qr-code#light": "121886640736081",
     "qr-code#thin": "75344266419885",
-    "qr-code": "71237651620468",
     "question#bold": "112789182011812",
     "question#fill": "112708346832328",
     "question#light": "88734592865454",
@@ -7558,5 +7555,8 @@
     "youtube-logo#thin": "122080529961640",
     "youtube-logo": "133457033569631",
     "baseball-helmet": "93649105543902",
-    "circle-half": "121185738281187"
+    "circle-half": "121185738281187",
+    "barcode#light": "91524878265808",
+    "cigarette#thin": "107482321761730",
+    "qr-code": "96242200410863"
 }
