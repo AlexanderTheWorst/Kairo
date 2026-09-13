@@ -5580,10 +5580,6 @@
     "puzzle-piece#light": "90687042094011",
     "puzzle-piece#thin": "95321418917768",
     "puzzle-piece": "139351719753208",
-    "qr-code#bold": "94485501117712",
-    "qr-code#fill": "89679844795820",
-    "qr-code#light": "121886640736081",
-    "qr-code#thin": "75344266419885",
     "question#bold": "112789182011812",
     "question#fill": "112708346832328",
     "question#light": "88734592865454",
@@ -7557,6 +7553,5 @@
     "baseball-helmet": "93649105543902",
     "circle-half": "121185738281187",
     "barcode#light": "91524878265808",
-    "cigarette#thin": "107482321761730",
-    "qr-code": "96242200410863"
+    "cigarette#thin": "107482321761730"
 }
