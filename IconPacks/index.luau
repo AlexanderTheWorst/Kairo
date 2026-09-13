@@ -5,7 +5,7 @@ return {
 
     Material = {
         variants = {
-            400_24_rounded = loadstring(httpget("https://raw.githubusercontent.com/AlexanderTheWorst/Kairo/refs/heads/main/IconPacks/Material/400_24_rounded/assets.luau"))(),
+            ["400_24_rounded"] = loadstring(httpget("https://raw.githubusercontent.com/AlexanderTheWorst/Kairo/refs/heads/main/IconPacks/Material/400_24_rounded/assets.luau"))(),
         },
     },
 }
