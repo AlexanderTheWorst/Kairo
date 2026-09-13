@@ -3,7 +3,7 @@ local ContentProvider = game:GetService("ContentProvider")
 --[[
     Creates an IconPackInitializer object
 
-    @param packUrl string
+    @param url: string
 
     @return IconPackInitializer
 ]]
@@ -22,8 +22,8 @@ function IconPackInitializer(url)
     --[[
         Preloads icons.
 
-        @param icons { string }
-        @param cb (succeeded: { string }, failed: { string }, count: number) -> (nil)
+        @param icons: { string }
+        @param cb: (succeeded: { string }, failed: { string }, count: number) -> (nil)
     ]]
     function loader.Preload(icons, updateCb)
         if not loader.loaded then
@@ -88,7 +88,7 @@ function IconPackInitializer(url)
     --[[
         Returns an icon if it exists.
 
-        @param icon string
+        @param icon: string
 
         @return string
     ]]
