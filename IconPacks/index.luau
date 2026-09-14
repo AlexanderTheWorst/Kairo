@@ -34,7 +34,6 @@ function IconPackInitializer(url)
         local iconIndex = {}
 
         for _, icon in icons do
-            print(icon)
             local assetId = loader.Icon(icon)
 
             if not iconIndex[assetId] then
